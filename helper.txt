@@ -1,0 +1,14 @@
+functionality must offer:
+	event resource/dubget
+	much more than customer support
+	streamline regestration process
+	collect realtime data aboud attendee behaviour
+	help desk
+
+
+after classification the dataset will be used with labels . 
+
+realted links:
+https://stackoverflow.com/questions/62970861/intent-classification-for-chatbot
+
+
